@@ -17,17 +17,17 @@
 
     <!-- 导航图标 -->
     <div>
-      <div class=" pt-20 flex justify-center align-middle ">
-        <div class="flex flex-row justify-between mt-6 container mx-auto max-w-screen-lg">
+      <div class=" pt-20 flex justify-center align-middle mx-auto max-w-screen-lg overflow-hidden ">
+        <div class="flex flex-row justify-between mt-6 -mx-7 ">
           <div
             v-for="(img, imgIndex) in BrandNavList"
             :key="imgIndex"
-            class=" flex-col mb-8 grid justify-items-center"
+            class=" mb-8 justify-items-center px-7 "
           >
             <el-image
               :src="img.imgPath"
               fit="cover"
-              class=" mb-4 ml-1/2  mr-7 "
+              class=" mb-4 "
             />
           </div>
         </div>

@@ -135,14 +135,18 @@
           fit="cover"
         />
       </div>
+      <Map />
     </div>
   </div>
 </template>
 
 <script>
+import Map from './component/map.vue'
+
 export default {
   name: 'CIntro',
   components: {
+    Map
   },
   data() {
     return {
