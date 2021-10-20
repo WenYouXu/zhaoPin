@@ -8,7 +8,7 @@
 
       <div class=" z-10 border-l-2 border-orange h-full " />
       <el-image
-        :src="require('@/assets/img_food/about/组 1069.png')"
+        :src="require('@/assets/img_food/about/zu 1069.png')"
         fit="cover"
         class="z-0 "
       />

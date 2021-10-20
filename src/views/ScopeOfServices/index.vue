@@ -3,7 +3,7 @@
     <!-- 头部大图 -->
     <div class="banner relative flex items-center justify-center  ">
       <el-image
-        :src="require('@/assets/img_food/service/组 1092.png')"
+        :src="require('@/assets/img_food/service/zu 1092.png')"
         fit="cover"
         class="BP"
       />
@@ -30,14 +30,14 @@
       <div class=" relative container mx-auto pt-16 flex items-center justify-center max-w-screen-lg">
         <div>
           <el-image
-            :src="require('@/assets/img_food/service/组 1728.png')"
+            :src="require('@/assets/img_food/service/zu 1728.png')"
             fit="cover"
             class=" relative"
           />
           <div class=" absolute top-10 flex">
             <div class=" text-3xl pr-3">{{ $t('m.l16') }}</div>
             <el-image
-              :src="require('@/assets/img_food/service/组 1732.png')"
+              :src="require('@/assets/img_food/service/zu 1732.png')"
               fit="cover"
               class=" "
             />
@@ -52,14 +52,14 @@
       <div class=" relative py-10 flex  justify-center items-stretch">
         <div>
           <el-image
-            :src="require('@/assets/img_food/service/组 1729.png')"
+            :src="require('@/assets/img_food/service/zu 1729.png')"
             fit="cover"
             class=" w-auto"
           />
           <div class=" absolute top-5 flex">
             <div class=" text-3xl pr-3">{{ $t('m.l17') }}</div>
             <el-image
-              :src="require('@/assets/img_food/service/组 1732.png')"
+              :src="require('@/assets/img_food/service/zu 1732.png')"
               fit="cover"
               class=" "
             />
@@ -79,16 +79,16 @@ export default {
     return {
       BrandNavList: [
         {
-          imgPath: require('@/assets/img_food/about/icon/组 427.png')
+          imgPath: require('@/assets/img_food/about/icon/zu 427.png')
         },
         {
-          imgPath: require('@/assets/img_food/about/icon/组 422.png')
+          imgPath: require('@/assets/img_food/about/icon/zu 422.png')
         },
         {
-          imgPath: require('@/assets/img_food/about/icon/组 421.png')
+          imgPath: require('@/assets/img_food/about/icon/zu 421.png')
         },
         {
-          imgPath: require('@/assets/img_food/about/icon/组 420.png')
+          imgPath: require('@/assets/img_food/about/icon/zu 420.png')
         }
       ]
     }

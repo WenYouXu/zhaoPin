@@ -72,7 +72,7 @@ export default {
     return {
       slidePageList: [
         {
-          imgPath: require('@/assets/img_food/home/组 1088.png')
+          imgPath: require('@/assets/img_food/home/zu 1088.png')
         }
       ]
     }
@@ -81,27 +81,27 @@ export default {
     serieshowList() {
       return [
         {
-          path: require('@/assets/img_food/home/组 1082.png'),
+          path: require('@/assets/img_food/home/zu 1082.png'),
           title: this.$t('m.a5'),
           router: 'product1Candy'
         },
         {
-          path: require('@/assets/img_food/home/组 1083.png'),
+          path: require('@/assets/img_food/home/zu 1083.png'),
           title: this.$t('m.a6'),
           router: 'product2Oat'
         },
         {
-          path: require('@/assets/img_food/home/组 1084.png'),
+          path: require('@/assets/img_food/home/zu 1084.png'),
           title: this.$t('m.a7'),
           router: 'product3foShou'
         },
         {
-          path: require('@/assets/img_food/home/组 1085.png'),
+          path: require('@/assets/img_food/home/zu 1085.png'),
           title: this.$t('m.a8'),
           router: 'product4Chocolate'
         },
         {
-          path: require('@/assets/img_food/home/组 1086.png'),
+          path: require('@/assets/img_food/home/zu 1086.png'),
           title: this.$t('m.a9'),
           router: 'product5Biscuit'
         }

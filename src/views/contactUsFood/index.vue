@@ -5,7 +5,7 @@
       <div class=" flex flex-col justify-center items-center">
         <div class="banner relative flex items-center  ">
           <el-image
-            :src="require('@/assets/img_food/contact/蒙版组 297.png')"
+            :src="require('@/assets/img_food/contact/zu 297.png')"
             fit="cover"
             class="z-0 BP"
           />
@@ -23,7 +23,7 @@
             <div class=" flex flex-col w-1/2 pl-12 border-r-2 ">
               <div>
                 <el-image
-                  :src="require('@/assets/img_food/contact/组 380.png')"
+                  :src="require('@/assets/img_food/contact/zu 380.png')"
                   fit="cover"
                 />
               </div>
@@ -35,7 +35,7 @@
             <div class=" flex flex-col w-1/2 pl-12">
               <div>
                 <el-image
-                  :src="require('@/assets/img_food/contact/组 380.png')"
+                  :src="require('@/assets/img_food/contact/zu 380.png')"
                   fit="cover"
                 />
               </div>
@@ -50,7 +50,7 @@
             <div class=" flex items-center w-1/3 pl-12">
               <div class=" mr-2">
                 <el-image
-                  :src="require('@/assets/img_food/contact/组 382.png')"
+                  :src="require('@/assets/img_food/contact/zu 382.png')"
                   fit="cover"
                 />
               </div>
@@ -66,7 +66,7 @@
             <div class=" flex items-center w-1/3 pl-12">
               <div class=" mr-2">
                 <el-image
-                  :src="require('@/assets/img_food/contact/组 384.png')"
+                  :src="require('@/assets/img_food/contact/zu 384.png')"
                   fit="cover"
                 />
               </div>
@@ -82,7 +82,7 @@
             <div class=" flex items-center w-1/3 pl-12">
               <div class=" mr-2">
                 <el-image
-                  :src="require('@/assets/img_food/contact/组 386.png')"
+                  :src="require('@/assets/img_food/contact/zu 386.png')"
                   fit="cover"
                 />
               </div>
@@ -157,16 +157,16 @@ export default {
     return {
       BrandNavList: [
         {
-          imgPath: require('@/assets/img_food/about/icon/组 427.png')
+          imgPath: require('@/assets/img_food/about/icon/zu 427.png')
         },
         {
-          imgPath: require('@/assets/img_food/about/icon/组 422.png')
+          imgPath: require('@/assets/img_food/about/icon/zu 422.png')
         },
         {
-          imgPath: require('@/assets/img_food/about/icon/组 421.png')
+          imgPath: require('@/assets/img_food/about/icon/zu 421.png')
         },
         {
-          imgPath: require('@/assets/img_food/about/icon/组 420.png')
+          imgPath: require('@/assets/img_food/about/icon/zu 420.png')
         }
       ],
 

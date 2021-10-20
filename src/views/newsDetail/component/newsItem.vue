@@ -17,7 +17,7 @@
           <div class=" flex justify-end">
             <div class=" text-lightblue">{{ $t('m.m8') }}</div>
             <el-image
-              :src="require('@/assets/img_food/news/组 363.png')"
+              :src="require('@/assets/img_food/news/zu 363.png')"
               class=" pl-1"
             />
           </div>

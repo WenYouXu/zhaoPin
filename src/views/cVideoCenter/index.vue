@@ -64,11 +64,11 @@ export default {
       return [
         {
           title: this.$t('m.l13'),
-          imgPath: require('@/assets/img_food/about/视频1.png')
+          imgPath: require('@/assets/img_food/about/shipin1.png')
         },
         {
           title: this.$t('m.l14'),
-          imgPath: require('@/assets/img_food/about/视频2.png')
+          imgPath: require('@/assets/img_food/about/shipin2.png')
         }
       ]
     },

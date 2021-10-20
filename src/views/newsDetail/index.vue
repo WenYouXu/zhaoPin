@@ -18,7 +18,7 @@
               {{ item.info }}
             </div>
             <el-image
-              :src="require('@/assets/img_food/news/company/蒙版组 209.png')"
+              :src="require('@/assets/img_food/news/company/zu 209.png')"
               fit="cover"
               class=" w-full h-full pt-5"
             />

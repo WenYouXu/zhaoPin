@@ -4,7 +4,7 @@
     <div class=" flex justify-center ">
       <div class="banner relative flex items-center justify-center  ">
         <el-image
-          :src="require('@/assets/img_food/about/蒙版组 291.png')"
+          :src="require('@/assets/img_food/about/zu 291.png')"
           fit="cover"
           class="BP"
         />
@@ -120,37 +120,37 @@ export default {
     storyList() {
       return [
         {
-          imgPath: require('@/assets/img_food/about/组 782.png'),
+          imgPath: require('@/assets/img_food/about/zu 782.png'),
           year: this.$t('m.k14'),
           title: this.$t('m.k15'),
           info: this.$t('m.k16')
         },
         {
-          imgPath: require('@/assets/img_food/about/组 781.png'),
+          imgPath: require('@/assets/img_food/about/zu 781.png'),
           year: this.$t('m.k17'),
           title: this.$t('m.k18'),
           info: this.$t('m.k19')
         },
         {
-          imgPath: require('@/assets/img_food/about/组 783.png'),
+          imgPath: require('@/assets/img_food/about/zu 783.png'),
           year: this.$t('m.k20'),
           title: this.$t('m.k21'),
           info: this.$t('m.k22')
         },
         {
-          imgPath: require('@/assets/img_food/about/组 783.png'),
+          imgPath: require('@/assets/img_food/about/zu 783.png'),
           year: this.$t('m.k23'),
           title: this.$t('m.k24'),
           info: this.$t('m.k25')
         },
         {
-          imgPath: require('@/assets/img_food/about/组 784.png'),
+          imgPath: require('@/assets/img_food/about/zu 784.png'),
           year: this.$t('m.k26'),
           title: this.$t('m.k27'),
           info: this.$t('m.k28')
         },
         {
-          imgPath: require('@/assets/img_food/about/组 784.png'),
+          imgPath: require('@/assets/img_food/about/zu 784.png'),
           year: this.$t('m.k29'),
           title: this.$t('m.k30'),
           info: this.$t('m.k31')

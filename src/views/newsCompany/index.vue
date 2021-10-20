@@ -5,7 +5,7 @@
       <div class="pt-14 flex justify-center ">
         <div class=" relative">
           <el-image
-            :src="require('@/assets/img_food/news/company/蒙版组 213.png')"
+            :src="require('@/assets/img_food/news/company/zu 213.png')"
             fit="cover"
             class=" "
           />
@@ -13,21 +13,21 @@
         </div>
         <div class=" flex flex-col space-y-4 mx-6 ">
           <el-image
-            :src="require('@/assets/img_food/news/company/蒙版组 214.png')"
+            :src="require('@/assets/img_food/news/company/zu 214.png')"
             fit="cover"
           />
           <el-image
-            :src="require('@/assets/img_food/news/company/蒙版组 215.png')"
+            :src="require('@/assets/img_food/news/company/zu 215.png')"
             fit="cover"
           />
         </div>
         <div class=" flex flex-col space-y-4">
           <el-image
-            :src="require('@/assets/img_food/news/company/蒙版组 216.png')"
+            :src="require('@/assets/img_food/news/company/zu 216.png')"
             fit="cover"
           />
           <el-image
-            :src="require('@/assets/img_food/news/company/蒙版组 217.png')"
+            :src="require('@/assets/img_food/news/company/zu 217.png')"
             fit="cover"
           />
         </div>

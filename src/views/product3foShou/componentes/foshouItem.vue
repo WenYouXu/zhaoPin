@@ -56,7 +56,7 @@ export default {
   mounted() {
     this.foShouList = new Array(14).fill(
       {
-        imgPath: require('@/assets/img_food/foShou/组 470.png'),
+        imgPath: require('@/assets/img_food/foShou/zu 470.png'),
         price: '50.00'
       }
     )

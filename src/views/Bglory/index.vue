@@ -3,7 +3,7 @@
     <!-- 头部大图 -->
     <div class="banner relative flex items-center justify-center ">
       <el-image
-        :src="require('@/assets/img_food/brandStrength/glory/组 1091.png')"
+        :src="require('@/assets/img_food/brandStrength/glory/zu 1091.png')"
         fit="cover"
         class="BP"
       />
@@ -72,99 +72,99 @@ export default {
     gloryShowList() {
       return [
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 821.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 821.png'),
           info: this.$t('m.j1')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 822.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 822.png'),
           info: this.$t('m.j2')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 823.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 823.png'),
           info: this.$t('m.j3')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 824.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 824.png'),
           info: this.$t('m.j4')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 825.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 825.png'),
           info: this.$t('m.j5')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 826.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 826.png'),
           info: this.$t('m.j6')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 827.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 827.png'),
           info: this.$t('m.j7')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 828.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 828.png'),
           info: this.$t('m.j77')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 829.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 829.png'),
           info: this.$t('m.j777')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 830.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 830.png'),
           info: this.$t('m.j7777')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 831.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 831.png'),
           info: this.$t('m.j8')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 832.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 832.png'),
           info: this.$t('m.j9')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 833.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 833.png'),
           info: this.$t('m.j10')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 834.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 834.png'),
           info: this.$t('m.j11')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 835.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 835.png'),
           info: this.$t('m.j12')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 836.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 836.png'),
           info: this.$t('m.j13')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 837.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 837.png'),
           info: this.$t('m.j14')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 838.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 838.png'),
           info: this.$t('m.j15')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 839.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 839.png'),
           info: this.$t('m.j16')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 840.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 840.png'),
           info: this.$t('m.j17')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 841.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 841.png'),
           info: this.$t('m.j18')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 842.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 842.png'),
           info: this.$t('m.j19')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 843.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 843.png'),
           info: this.$t('m.j20')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/glory/组 844.png'),
+          imgPath: require('@/assets/img_food/brandStrength/glory/zu 844.png'),
           info: this.$t('m.j21')
         }
 

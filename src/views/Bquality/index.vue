@@ -28,14 +28,14 @@
         <div class=" flex space-x-5 ">
           <!-- 上左图片 -->
           <el-image
-            :src="require('@/assets/img_food/brandStrength/quality/蒙版组 234.png')"
+            :src="require('@/assets/img_food/brandStrength/quality/zu 234.png')"
             fit="cover"
             class=""
           />
           <!-- 上中内容 -->
           <div>
             <el-image
-              :src="require('@/assets/img_food/brandStrength/quality/蒙版组 230.png')"
+              :src="require('@/assets/img_food/brandStrength/quality/zu 230.png')"
               fit="cover"
               class=""
             />
@@ -46,7 +46,7 @@
           </div>
           <!-- 上右图片 -->
           <el-image
-            :src="require('@/assets/img_food/brandStrength/quality/蒙版组 241.png')"
+            :src="require('@/assets/img_food/brandStrength/quality/zu 241.png')"
             fit="cover"
             class=""
           />
@@ -56,13 +56,13 @@
         <div class="flex space-x-7 mt-6">
           <!-- 下左图片 -->
           <el-image
-            :src="require('@/assets/img_food/brandStrength/quality/蒙版组 231.png')"
+            :src="require('@/assets/img_food/brandStrength/quality/zu 231.png')"
             fit="cover"
             class=""
           />
           <!-- 下右图片 -->
           <el-image
-            :src="require('@/assets/img_food/brandStrength/quality/蒙版组 232.png')"
+            :src="require('@/assets/img_food/brandStrength/quality/zu 232.png')"
             fit="cover"
             class=" "
           />
@@ -101,12 +101,12 @@
         <div class=" mb-12 flex justify-between">
           <div class=" space-y-14 pr-10">
             <el-image
-              :src="require('@/assets/img_food/brandStrength/quality/蒙版组 167.png')"
+              :src="require('@/assets/img_food/brandStrength/quality/zu 167.png')"
               fit="cover"
               class=" "
             />
             <el-image
-              :src="require('@/assets/img_food/brandStrength/quality/蒙版组 168.png')"
+              :src="require('@/assets/img_food/brandStrength/quality/zu 168.png')"
               fit="cover"
               class=" "
             />
@@ -114,12 +114,12 @@
 
           <div class="space-y-14 mt-36 pr-10">
             <el-image
-              :src="require('@/assets/img_food/brandStrength/quality/蒙版组 169.png')"
+              :src="require('@/assets/img_food/brandStrength/quality/zu 169.png')"
               fit="cover"
               class=" "
             />
             <el-image
-              :src="require('@/assets/img_food/brandStrength/quality/蒙版组 170.png')"
+              :src="require('@/assets/img_food/brandStrength/quality/zu 170.png')"
               fit="cover"
               class=" "
             />
@@ -127,12 +127,12 @@
 
           <div class="space-y-14 mt-10 pr-10">
             <el-image
-              :src="require('@/assets/img_food/brandStrength/quality/蒙版组 171.png')"
+              :src="require('@/assets/img_food/brandStrength/quality/zu 171.png')"
               fit="cover"
               class=" "
             />
             <el-image
-              :src="require('@/assets/img_food/brandStrength/quality/蒙版组 172.png')"
+              :src="require('@/assets/img_food/brandStrength/quality/zu 172.png')"
               fit="cover"
               class=" "
             />
@@ -140,12 +140,12 @@
 
           <div class="space-y-14 mt-52">
             <el-image
-              :src="require('@/assets/img_food/brandStrength/quality/蒙版组 173.png')"
+              :src="require('@/assets/img_food/brandStrength/quality/zu 173.png')"
               fit="cover"
               class=" "
             />
             <el-image
-              :src="require('@/assets/img_food/brandStrength/quality/蒙版组 174.png')"
+              :src="require('@/assets/img_food/brandStrength/quality/zu 174.png')"
               fit="cover"
               class=" "
             />
@@ -164,30 +164,30 @@
         </div>
         <div class="flex justify-between -mx-2">
           <el-image
-            :src="require('@/assets/img_food/brandStrength/quality/蒙版组 162.png')"
+            :src="require('@/assets/img_food/brandStrength/quality/zu 162.png')"
             fit="cover"
             class="px-2"
           />
           <div class=" flex flex-col justify-between px-2">
             <el-image
-              :src="require('@/assets/img_food/brandStrength/quality/蒙版组 163.png')"
+              :src="require('@/assets/img_food/brandStrength/quality/zu 163.png')"
               fit="cover"
               class=" "
             />
             <el-image
-              :src="require('@/assets/img_food/brandStrength/quality/蒙版组 164.png')"
+              :src="require('@/assets/img_food/brandStrength/quality/zu 164.png')"
               fit="cover"
               class=" "
             />
           </div>
           <div class=" flex flex-col justify-between px-2">
             <el-image
-              :src="require('@/assets/img_food/brandStrength/quality/蒙版组 165.png')"
+              :src="require('@/assets/img_food/brandStrength/quality/zu 165.png')"
               fit="cover"
               class=" "
             />
             <el-image
-              :src="require('@/assets/img_food/brandStrength/quality/蒙版组 166.png')"
+              :src="require('@/assets/img_food/brandStrength/quality/zu 166.png')"
               fit="cover"
               class=" "
             />
@@ -210,22 +210,22 @@ export default {
 
       workPlaceList: [
         {
-          imgPath: require('@/assets/img_food/brandStrength/quality/蒙版组 175.png')
+          imgPath: require('@/assets/img_food/brandStrength/quality/zu 175.png')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/quality/蒙版组 176.png')
+          imgPath: require('@/assets/img_food/brandStrength/quality/zu 176.png')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/quality/蒙版组 177.png')
+          imgPath: require('@/assets/img_food/brandStrength/quality/zu 177.png')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/quality/蒙版组 178.png')
+          imgPath: require('@/assets/img_food/brandStrength/quality/zu 178.png')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/quality/蒙版组 179.png')
+          imgPath: require('@/assets/img_food/brandStrength/quality/zu 179.png')
         },
         {
-          imgPath: require('@/assets/img_food/brandStrength/quality/蒙版组 180.png')
+          imgPath: require('@/assets/img_food/brandStrength/quality/zu 180.png')
         }
       ]
 

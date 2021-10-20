@@ -35,10 +35,10 @@ module.exports = {
     return {
       slidePageList: [
         {
-          imgPath: require('@/assets/img_food/home/组 1088.png')
+          imgPath: require('@/assets/img_food/home/zu 1088.png')
         },
         {
-          imgPath: require('@/assets/img_food/home/组 1088.png')
+          imgPath: require('@/assets/img_food/home/zu 1088.png')
         }
       ]
     }
